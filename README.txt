@@ -1,5 +1,10 @@
 
-I. Please write iptables rules that will block all incoming traffic and allow outgoing (browsing from local machine should work, but all incoming connections should be dropped).
+##################################################################################################
+#                                                                                                #
+#    Please write iptables rules that will block all incoming traffic and allow outgoing         #
+#    (browsing from local machine should work, but all incoming connections should be dropped).  #
+#                                                                                                #
+##################################################################################################
 
     how to do:
     1)	Setting up policies for dropping all incoming and forwarding packets:
